@@ -1,6 +1,6 @@
 // next.config.js
 const nextConfig = {
-  experimental: {
+  ExperimentalConfig: {
     buildCache: true, // Enable build caching
   },
 };
